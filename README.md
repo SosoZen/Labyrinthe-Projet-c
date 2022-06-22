@@ -1,7 +1,7 @@
 # Labyrinthe-Projet-c
 Bonjour a tous , j'éspère que vous allez bien .<br>
 Alors déja bienvenue si vous êtes la pour la première fois. <br>
-Très rapidement, ce projet est un labyrinthe en langage c. Même si Pas très compliqué à utiliser, on va vous faire un petit tuto ici. <br>
+Très rapidement, ce projet est un labyrinthe en langage C. Même si Pas très compliqué à utiliser, on va vous faire un petit tuto ici. <br>
 Alors pour commencer il faut compiler le code . Un conseil, pour éviter de vous prendre la tête à devoir installer des extension ect... utilisez gdb-online .Ca facilitera les choses. <br> <br>
 TUTO:
 Pour commencer , vous devez appuyer sur la touche 1 puis valider <br>
