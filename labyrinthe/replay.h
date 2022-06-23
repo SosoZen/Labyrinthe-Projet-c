@@ -1,3 +1,4 @@
+#include "prototype.h"
 //menu demandant au joueur s'il veut rejouer en choisissant entre Y et N (pour oui et non)
 int rejouer(){
     system("clear");
