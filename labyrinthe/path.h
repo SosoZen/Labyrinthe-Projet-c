@@ -1,6 +1,6 @@
 #define HAUTEUR 28
 #define LARGEUR 65
-
+#include "prototype.h"
 //chemin pour niveau 1
 int path_1(){
 char chemin_1[HAUTEUR][LARGEUR] = {
