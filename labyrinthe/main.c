@@ -6,6 +6,7 @@
 #include "vérif.h"
 #include "replay.h"
 #include "menu.h"
+#include "prototype.h"
 #define HAUTEUR 28
 #define LARGEUR 65
 
