@@ -1,3 +1,4 @@
+#include "prototype.h"
 //fonction pour verifier si le joueur ne se dirige pas vers un mur
 int is_valid(int x, int y, int hauteur, int largeur, char grille[hauteur][largeur]) {
     return (grille[y][x] != '#');
