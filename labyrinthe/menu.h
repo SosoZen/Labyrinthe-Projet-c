@@ -1,3 +1,4 @@
+#include "prototype.h"
 int menu(){
     system("clear");
     int choixdifficulte = 0;
