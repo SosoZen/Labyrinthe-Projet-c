@@ -1,5 +1,6 @@
 #define HAUTEUR 28
 #define LARGEUR 65
+#include "prototype.h"
 
 //niveau 1
 int level_1() {
