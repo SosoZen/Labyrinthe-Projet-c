@@ -9,7 +9,7 @@ Ensuite vous avez le choix entre 3 niveaux : <br>
 -facile <br>
 -moyen <br>
 -expert des labyrinthe <br>
-Après avoir fait votre choix , vous entrez directement dans le bain : Résolvez donc ce labyrinthe. <br>
+Après avoir fait votre choix , vous entrez directement dans le bain : Résolvez donc ce labyrinthe.. <br>
 Vous êtes arrivés ?BRAVOOOO <br>
 2 choix s'offres a vous : <br>
 -rejouer ? --> alors taper Y <br>
