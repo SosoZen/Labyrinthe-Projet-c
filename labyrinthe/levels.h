@@ -1,7 +1,7 @@
 #define HAUTEUR 28
 #define LARGEUR 65
 #include "prototype.h"
-
+int compteur = 0;
 //niveau 1
 int level_1() {
     char grille[HAUTEUR][LARGEUR] = {
@@ -43,10 +43,10 @@ int level_1() {
 
         //fonction permettant au joueur de se déplacer
         switch(getch()) {
-            case 'z': move_y = y - 1; break;
-            case 's': move_y = y + 1; break;
-            case 'q': move_x = x - 1; break;
-            case 'd': move_x = x + 1; break;
+            case 'z': move_y = y - 1;compteur+=1; break;
+            case 's': move_y = y + 1;compteur+=1; break;
+            case 'q': move_x = x - 1;compteur+=1; break;
+            case 'd': move_x = x + 1;compteur+=1; break;
             //affiche le chemin vers la ligne d'arrivée
             case 'p': path_1();
             //téléporte le joueur une case au dessus de la ligne d'arrivée
@@ -116,10 +116,10 @@ int level_2() {
 
         //fonction permettant au joueur de se déplacer
         switch(getch()) {
-            case 'z': move_y = y - 1; break;
-            case 's': move_y = y + 1; break;
-            case 'q': move_x = x - 1; break;
-            case 'd': move_x = x + 1; break;
+            case 'z': move_y = y - 1;compteur+=1; break;
+            case 's': move_y = y + 1;compteur+=1; break;
+            case 'q': move_x = x - 1;compteur+=1; break;
+            case 'd': move_x = x + 1;compteur+=1; break;
             //affiche le chemin vers la ligne d'arrivée
             case 'p': path_2();
             //téléporte le joueur une case au dessus de la ligne d'arrivée
@@ -197,10 +197,10 @@ int level_3() {
 
         //fonction permettant au joueur de se déplacer
         switch(getch()) {
-            case 'z': move_y = y - 1; break;
-            case 's': move_y = y + 1; break;
-            case 'q': move_x = x - 1; break;
-            case 'd': move_x = x + 1; break;
+            case 'z': move_y = y - 1;compteur+=1; break;
+            case 's': move_y = y + 1;compteur+=1; break;
+            case 'q': move_x = x - 1;compteur+=1;break;
+            case 'd': move_x = x + 1;compteur+=1; break;
             //affiche le chemin vers la ligne d'arrivée
             case 'p': path_3();
             //téléporte le joueur une case au dessus de la ligne d'arrivée
