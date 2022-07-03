@@ -1,4 +1,5 @@
 # Labyrinthe-Projet-c
+(pour le labyrinthe , c'est le dossier qu'il faut prendre en compte pas le fichier seul 
 Bonjour a tous , j'éspère que vous allez bien .<br>
 Alors déja bienvenue si vous êtes la pour la première fois. <br>
 Très rapidement, ce projet est un labyrinthe en langage C. Même si Pas très compliqué à utiliser, on va vous faire un petit tuto ici. <br>
